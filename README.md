@@ -5,11 +5,11 @@ Workout Tracker is a web app that allows you to track your workouts from day to 
 
 ## Screenshots
 Home page:
-![Screen Shot](public\assets\img\WorkoutTrackIndex.PNG)
+![Screen Shot1](public/assets/img/WorkoutTrackIndex.PNG)
 Your stats:
-![Screen Shot](public\assets\img\WorkoutTrackStats.PNG)
+![Screen Shot2](public/assets/img/WorkoutTrackStats.PNG)
 Add new exercise: 
-![Screen Shot](public\assets\img\WoukoutTrackNew.PNG)
+![Screen Shot3](public/assets/img/WoukoutTrackNew.PNG)
 
 
 ## Link to Deployed Application
